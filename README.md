@@ -17,9 +17,9 @@ ________________________
 
 **Cloud:** AWS (Cloud Practitioner), Cloud fundamentals, cloud security concepts
 
-**Scripting:** Python (automation & IT scripting), Bash
+**Programming & Scripting:** Python (automation & IT scripting), SQL, Bash
 
-**Tools:** Cisco Packet Tracer, Salesforce CRM, SharePoint, Microsoft 365, Google Workspace
+**Tools:** Wireshark, Cisco Packet Tracer, Salesforce CRM, SharePoint, Microsoft 365, Google Workspace
 
 ________________________
 
