@@ -2,6 +2,7 @@
 # Hi, I'm Grisel ✨
 
 **IT & Network Professional based in Houston, TX**
+
 Transitioning into network engineering with a focus on infrastructure, connectivity, and systems reliability.
 
 CompTIA A+ certified | CompTIA Network+ (in progress) | Python (in progress) | CompTIA Security+ (soon)
