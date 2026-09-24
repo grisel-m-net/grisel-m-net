@@ -13,7 +13,7 @@ ________________________
 </a>
 </p>
 
-| Project | Description |
+| Projects | Description |
 |---|---|
 | 📊 [Credit Card Fraud Detection Dashboard](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard) | Analyzed credit card transaction data across the Western U.S. using SQL and Tableau, building an interactive dashboard to surface fraud patterns and high-risk segments. |
 | 🐍 Python Log Data Parser **[In Progress]** | Parses unstructured log files into structured records with Python and regex, then categorizes and aggregates entries to surface recurring error trends. |
