@@ -1,4 +1,4 @@
-![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner-UP.png)
+![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/new-github-header-banner.png)
 ________________________
 
 <h3 align="center">Interested in all things technology, network, analysis and cloud. ☁️ </h3>
