@@ -13,11 +13,11 @@ ________________________
 </a>
 </p>
 
-| Projects | Description |
-| :--- | :--- |
-| 📊 [Tableau Credit Card Dashboard](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard)| Analyzed credit card fraud patterns across the Western U.S. using SQL and Tableau.|
-| 🛠️ [Active Directory Infrastructure Lab](https://github.com/grisel-m-net/os-active-directory-portfolio) | Full-stack infrastructure: network topology design (Cisco Packet Tracer), Windows Server Active Directory DC promotion, user/group management, organizational units, and Group Policy. |
-| 🐍 **Python Log Analyzer [In Progress]** | Parsing and categorizing system logs using Python and regex to surface recurring error patterns for faster triage.|
+| Project | Description |
+|---|---|
+| 📊 [Credit Card Fraud Detection Dashboard](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard) | Analyzed credit card transaction data across the Western U.S. using SQL and Tableau, building an interactive dashboard to surface fraud patterns and high-risk segments. |
+| 🐍 Python Log Data Parser **[In Progress]** | Parses unstructured log files into structured records with Python and regex, then categorizes and aggregates entries to surface recurring error trends. |
+| 🛠️ [Active Directory Infrastructure Lab](https://github.com/grisel-m-net/os-active-directory-portfolio) **[WGU School Project]** | Built a multi-VLAN network in Cisco Packet Tracer connected to a Windows Server Active Directory domain, with OUs, security groups, and Group Policy. |
 ________________________
 
 <h4 align="center"> 🎓 Western Governors University - B.S. in Information Technology (Fall 2026) </h4>
