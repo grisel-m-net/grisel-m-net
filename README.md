@@ -1,7 +1,7 @@
 ![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/github-header-banner-UP.png)
 ________________________
 
-<h3 align="center">Interested in all things technology, network, AI and cloud. ☁️ </h3>
+<h3 align="center">Interested in all things technology, network, analysis and cloud. ☁️ </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
