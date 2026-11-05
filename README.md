@@ -1,4 +1,6 @@
-![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/new-github-header-banner.png)
+![Logo](https://github.com/grisel-m-net/grisel-m-net/blob/main/rev1-github-header-banner.png)
+
+
 
 <!-- Keep your existing banner image line here, e.g. <img src="YOUR_BANNER_URL" width="100%"> --> <h3 align="center">Finance · Billing, Payments & Fraud Analytics</h3> </p>
 ________________________
