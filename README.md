@@ -2,7 +2,7 @@
 
 
 
-<!-- Keep your existing banner image line here, e.g. <img src="YOUR_BANNER_URL" width="100%"> --> <h3 align="center">Finance · Billing, Payments & Fraud Analytics</h3> </p>
+<!-- Keep your existing banner image line here, e.g. <img src="YOUR_BANNER_URL" width="100%"> --> <h3 align="center">Finance Operations · Billing, Payments & Fraud Analytics</h3> </p>
 ________________________
 
 <h3 align="center">📬 Connect with me:</h3>
