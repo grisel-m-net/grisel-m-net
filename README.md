@@ -15,7 +15,6 @@ ________________________________________________________________________________
 | Projects | Description |
 |---|---|
 | 📊 [Credit Card Fraud Detection Dashboard](https://public.tableau.com/app/profile/grisel.martinez2185/viz/CreditCardFraudDetectionDashboard_17628935448970/CCFDashboard) | Analyzed credit card transactions across the Western U.S. with SQL and Tableau. Interactive dashboard surfaces fraud patterns by time, amount, merchant category, and region to flag high-risk segments. |
-| 🐍 Python Log Data Parser **[In Progress]** | Parses unstructured log files into structured records with Python and regex, then categorizes and aggregates entries to surface recurring error trends. |
 | 🛠️ [Active Directory Infrastructure Lab](https://github.com/grisel-m-net/os-active-directory-portfolio) **[WGU School Project]** | Multi-VLAN network in Cisco Packet Tracer connected to a Windows Server AD domain with OUs, security groups, and Group Policy. |
 ________________________
 
